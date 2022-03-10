@@ -1,9 +1,9 @@
-package com.example.primeiroprojetospringboot.controllers;
+package com.example.APIRest.controllers;
 
 import java.util.List;
 
-import com.example.primeiroprojetospringboot.entities.User;
-import com.example.primeiroprojetospringboot.repositories.UserRepository;
+import com.example.APIRest.entities.User;
+import com.example.APIRest.repositories.UserRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.example.primeiroprojetospringboot.entities;
+package com.example.APIRest.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

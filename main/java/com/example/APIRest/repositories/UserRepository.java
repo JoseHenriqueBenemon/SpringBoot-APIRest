@@ -1,6 +1,6 @@
-package com.example.primeiroprojetospringboot.repositories;
+package com.example.APIRest.repositories;
 
-import com.example.primeiroprojetospringboot.entities.User;
+import com.example.APIRest.entities.User;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
